@@ -1,4 +1,6 @@
-*{
+
+
+.container{
     background-color: skyblue;
 }
 
@@ -6,4 +8,8 @@ img{
 width:60px;
 height:60px;
 
+}
+about {
+
+    background-color: #4aaaa5;
 }
