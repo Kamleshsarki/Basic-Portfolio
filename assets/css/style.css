@@ -1,5 +1,16 @@
-#navbar
+
+
+
+.container{
+width:960px;
+color:#777777;
+border-color: #dddddd;
+}
+
+
+nav
 {
     
     background-color: #4aaaa5;
+    
 }
